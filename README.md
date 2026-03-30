@@ -12,7 +12,6 @@ This repository includes:
 * A **data processing + alignment pipeline**
 * Feature engineering for **motor control signals (e.g., deceleration)**
 
-📄 Full survey: 
 
 ---
 
@@ -33,7 +32,7 @@ We aim to:
 
 ## Project Pipeline
 
-📄 Implementation notebook: 
+Implementation notebook: 
 
 ### 1. Data Ingestion
 
