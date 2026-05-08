@@ -50,11 +50,7 @@ Recent neuroscience studies show that Purkinje cells encode:
 
 Most existing machine learning approaches remain limited to binary classification tasks such as lick vs no-lick and often rely on handcrafted statistical features.
 
-This project investigates whether deep spatio-temporal neural architectures can better decode:
-
-- Movement deceleration
-- Behavioral intent
-- Coordinated neural population dynamics
+This project investigates whether deep spatio-temporal neural architectures can better model behaviorally relevant motor dynamics from Purkinje cell activity, including movement-related behavioral states associated with tongue movement tasks.
 
 The work is inspired by prior research including:
 
